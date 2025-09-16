@@ -39,4 +39,5 @@ pip install tensorflow pandas numpy scikit-learn matplotlib
 
 # 📈 Plots
 The screenshot below demonstrates the predicted values vs actual data.
+
 ![Training Results](Plots/Epoch13/all_data.png)
