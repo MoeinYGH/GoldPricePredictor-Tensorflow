@@ -13,7 +13,7 @@ A deep learning project that uses Long Short-Term Memory (LSTM) neural networks 
 
 - Error Analysis: Calculates and displays prediction errors for each feature
 
-# Making Predictions
+# ❓ Making Predictions
 Run "load_model.py" to load the already trained and saved model "gold_price_lstm_multi_output_model.h5"
 
 Additinially it will:
@@ -39,4 +39,4 @@ pip install tensorflow pandas numpy scikit-learn matplotlib
 
 # 📈 Plots
 The screenshot below demonstrates the predicted values vs actual data.
-![Screenshot](Plots\Epoch13\all_data.png)
+![Training Results](plots/all_data.png)
